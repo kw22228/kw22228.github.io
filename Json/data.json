@@ -1,0 +1,69 @@
+{
+    "people": [
+        {
+            "Name": "Tiger Nixon",
+            "Postion": "System Architect",
+            "Office": "Edinburgh",
+            "Age": "61",
+            "Start_Date": "2011/04/25",
+            "Salary": "$320,800"
+        },
+        {
+            "Name": "Garrett Winters",
+            "Postion": "Accountant",
+            "Office": "Tokyo",
+            "Age": "63",
+            "Start_Date": "2011/07/25",
+            "Salary": "$170,750"
+        },
+        {
+            "Name": "Ashton Cox",
+            "Postion": "Junior Technical Author",
+            "Office": "San Francisco",
+            "Age": "66",
+            "Start_Date": "2009/01/12",
+            "Salary": "$86,000"
+        },
+
+        {
+            "Name": "Cedric Kelly",
+            "Postion": "Senior Javascript Developer",
+            "Office": "Edinburgh",
+            "Age": "22",
+            "Start_Date": "2012/03/29",
+            "Salary": "$433,060"
+        },
+        {
+            "Name": "Airi Satou",
+            "Postion": "Accountant",
+            "Office": "Tokyo",
+            "Age": "33",
+            "Start_Date": "2008/11/28",
+            "Salary": "$162,700"
+        },
+        {
+            "Name": "Brielle Williamson",
+            "Postion": "Integration Specialist",
+            "Office": "New York",
+            "Age": "61",
+            "Start_Date": "2012/12/02",
+            "Salary": "$372,000"
+        },
+        {
+            "Name": "Herrod Chandler",
+            "Postion": "Sales Assistant",
+            "Office": "San Francisco",
+            "Age": "59",
+            "Start_Date": "2012/08/06",
+            "Salary": "$137,500"
+        },
+        {
+            "Name": "Rhona Davidson",
+            "Postion": "Integration Specialist",
+            "Office": "Tokyo",
+            "Age": "55",
+            "Start_Date": "2010/10/14",
+            "Salary": "$327,900"
+        }
+    ]
+}
