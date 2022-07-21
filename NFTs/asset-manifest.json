@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NFTs/static/css/main.8dd26d24.css",
-    "main.js": "/NFTs/static/js/main.d0f04d7e.js",
+    "main.js": "/NFTs/static/js/main.d39610bd.js",
     "static/media/Home Video.mp4": "/NFTs/static/media/Home Video.d4bf2265b2f4a01a1582.mp4",
     "static/media/akaya-telivigala-all-400-normal.woff": "/NFTs/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
     "static/media/akaya-telivigala-telugu-400-normal.woff2": "/NFTs/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
@@ -25,10 +25,10 @@
     "index.html": "/NFTs/index.html",
     "static/media/Ethereum.svg": "/NFTs/static/media/Ethereum.44caf7f687ceac7228b187be67a0a151.svg",
     "main.8dd26d24.css.map": "/NFTs/static/css/main.8dd26d24.css.map",
-    "main.d0f04d7e.js.map": "/NFTs/static/js/main.d0f04d7e.js.map"
+    "main.d39610bd.js.map": "/NFTs/static/js/main.d39610bd.js.map"
   },
   "entrypoints": [
     "static/css/main.8dd26d24.css",
-    "static/js/main.d0f04d7e.js"
+    "static/js/main.d39610bd.js"
   ]
 }
